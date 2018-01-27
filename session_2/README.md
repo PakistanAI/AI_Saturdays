@@ -17,7 +17,6 @@ Course Structure:
 Congratulations! You are now done with 50% of the content of Week 1 in Andrew Ng's [Machine Learning](https://www.coursera.org/learn/machine-learning) course! We strongly encourge you to follow along with with course until completion and level yourself up as a Machine Learning professional!
 
 ## Mathematics #1
-- Instructor presents [name]
 - Watch the following videos independently in the following order:
   - [Vectors Introduction](https://www.youtube.com/watch?time_continue=5&v=br7tS1t2SFE) (6 min)
   - [Vector Intuition](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2) (10 min)
