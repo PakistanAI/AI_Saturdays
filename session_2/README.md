@@ -11,8 +11,8 @@ Course Structure:
   - [Linear Regression With One Variable | Gradient Descent](https://www.youtube.com/watch?v=F6GSRDoB-Cg&index=8&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) (11 min)
   - [Linear Regression With One Variable | Gradient Descent Intuition](https://www.youtube.com/watch?v=YovTqTY-PYY&index=9&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) (12 min)
   - [Linear Regression With One Variable | Gradient Descent For Linear Regression](https://www.youtube.com/watch?v=GtSf2T6Co80&index=10&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) (10 min)
-- Instructor presents [name]
-- Instructor demonstrates TensorFlow code with the jupyter notebook [name]   
+- Instructor presents `Intro_To_TensorFlow.pptx`
+- Instructor demonstrates TensorFlow code with the jupyter notebook `LinearRegression.ipynb`   
 
 Congratulations! You are now done with 50% of the content of Week 1 in Andrew Ng's [Machine Learning](https://www.coursera.org/learn/machine-learning) course! We strongly encourge you to follow along with with course until completion and level yourself up as a Machine Learning professional!
 
